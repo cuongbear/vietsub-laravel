@@ -112,13 +112,6 @@ Trong bản Việt hoá này, sẽ có khá nhiều thuật ngữ tiếng Anh m�
 
 Do đó, với các thuật ngữ mà bạn không hiểu, bạn có thể tra cứu thuật ngữ trong project [thuật ngữ Laravel](https://github.com/petehouston/thuat-ngu-laravel).
 
-## Hướng dẫn đóng góp
-
-Bản dịnh hiện giờ là lấy từ [trang](https://github.com/petehouston/laravel-docs-vn) dịch từ vs 5.2
-
->** Bắt đầu thêm dữ liệu từ phiên bản 5.6**
-
-## Chú ý
 
 ### Dịch một page mới
 
