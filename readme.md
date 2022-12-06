@@ -4,7 +4,7 @@
 
 ## Mục lục
 
-Mục lục này tương ứng với [mục lục trên trang chủ](https://laravel.com/docs) của Laravel.
+Mục lục này tương ứng với [mục lục trên trang chủ](https://laravel.com/docs/9.x) của Laravel.
 
 - **Mở đầu**
   - Release Notes
